@@ -21,7 +21,7 @@
 <h3>Dropdown Menu inside a Navigation Bar</h3>
 <p>Hover over the "Dropdown" link to see the dropdown menu.</p>
 
-<?php include ("inc.html"); ?>
+<?php include ("inc.php"); ?>
 
 </body>
 </html>
