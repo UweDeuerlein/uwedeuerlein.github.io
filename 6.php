@@ -6,12 +6,12 @@
 <body>
 
 <ul>
-  <li><a href="6.html">Home</a></li>
-  <li><a href="news.html">News</a></li>
+  <li><a href="6.php">Home</a></li>
+  <li><a href="news.php">News</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
     <div class="dropdown-content">
-      <a href="link1.html">Link 1</a>
+      <a href="link1.php">Link 1</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
